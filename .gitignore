@@ -15,3 +15,13 @@ files/
 *.env
 
 node_modules/
+
+caesar/files
+
+des/node_modules
+xor/node_modules
+caesar/node_modules
+
+des/.vscode
+xor/.vscode
+caesar/.vscode
